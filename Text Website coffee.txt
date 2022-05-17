@@ -1,16 +1,6 @@
 ﻿========== ESPECIALTY ==========
-.section__subtitle
-Specialty coffees that make you happy and cheer you up!
 
-.specialty__title | .specialty__description
-Selected Coffee
-We select the best premium coffee, for a true taste.
 
-Delicious Cookies
-Enjoy your coffee with some hot cookies
-
-Enjoy at Home
-Enjoy the best coffee in the comfort of your home.
 
 ========== PRODUCTS ==========	
 .section__subtitle
