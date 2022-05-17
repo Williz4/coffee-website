@@ -1,20 +1,4 @@
-========== HOME ==========
-.home__title
-Choose Your Favorite Coffee And Enjoy<span>.</span>
-
-.home__description
-Buy the best and delicious coffees.
-
-.home__data-number | .home__data-title | .home__data-description
-120K
-Testimonials
-Testimonials from various customers who trust us.
-
-340+
-Exclusive Product
-Premium preparation with quality ingredients.
-
-========== ESPECIALTY ==========
+﻿========== ESPECIALTY ==========
 .section__subtitle
 Specialty coffees that make you happy and cheer you up!
 
