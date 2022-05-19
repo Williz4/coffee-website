@@ -1,37 +1,8 @@
-﻿========== BLOG  ==========
-.section__subtitle
-Our Blogs Coffee with trending topic for this week
-
-.blog__title | .blog__description
-10 Coffee Recommendations
-The blogs about coffee will help you a lot about 
-how it is prepared, its waiting time, for a good 
-quality coffee.
-
-12 Benefits Of Drinking Coffee
-The blogs about coffee will help you a lot about 
-how it is prepared, its waiting time, for a good 
-quality coffee.
+﻿
 
 ========== FOOTER ==========
-.footer__title
-Coffee.
 
-.footer__description
-Subscribe to our newsletter
 
-.footer__subtitle | .footer__information
-Address
-9876 Hacienda Av. <br>
-Lima, La Libertad 123, Perú
-
-Contact
-+987654321 <br>
-coffee@email.com
-
-Office
-Monday - Saturday <br>
-9AM - 10PM
 
 .footer__social-link
 https://www.facebook.com/
