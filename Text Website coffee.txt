@@ -1,36 +1,4 @@
-﻿========== PRODUCTS ==========	
-------------
-$6
-Cream Cake
-
-$5
-Chocolate Croissant
-
-$15
-Pancake
-
-$12
-Milk Cake
-
-========== QUALITY ==========
-.section__subtitle
-We offer a premium and better quality preparation just for you!
-
-.quality__title
-Premium Coffee
-
-.quality__price
-$94.99
-
-.quality__special
-Especial Price
-
-.quality__description
-We are delighted with our coffee. That's why you get the best 
-premium coffee plus the kettle made of resistant materials that 
-you see in the image, for a special price.
-
-========== BLOG  ==========
+﻿========== BLOG  ==========
 .section__subtitle
 Our Blogs Coffee with trending topic for this week
 
